@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.whitecard {
+  background-color: #ffffff;
+  height: 250px;
+  width: 250px;
+}
